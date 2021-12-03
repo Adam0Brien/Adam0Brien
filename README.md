@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+https://cdn.discordapp.com/attachments/781619945002893322/916105656191295508/unknown.png
+
+
+
 <!--
 **Adam0Brien/Adam0Brien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

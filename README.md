@@ -1,6 +1,4 @@
-### Hi there 👋
-
-https://cdn.discordapp.com/attachments/781619945002893322/916105656191295508/unknown.png
+![grind](https://user-images.githubusercontent.com/74919798/144596768-e8bf117f-b25e-4c74-a9ad-c1909128b1e5.png)
 
 
 

@@ -3,9 +3,5 @@
 
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/?username=adam0brien&count_private=true&theme=tokyonight&showicons=true">
-</p>
-
-
-<p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam0brien&count_private=true&theme=tokyonight&showicons=true">
 </p>

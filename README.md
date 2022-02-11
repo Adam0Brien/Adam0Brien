@@ -2,6 +2,8 @@
 
 
 <p align="center">
+   ![](https://komarev.com/ghpvc/?username=adam0brien=blue)
+   
    <img width="400" height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam0brien&count_private=true&theme=tokyonight&showicons=true">
   
   <br>

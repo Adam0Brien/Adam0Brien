@@ -15,6 +15,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adam0brien&theme=react&show_icons=true" alt="adam0brien" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=adam0brien)](https://github.com/anuraghazra/github-readme-stats  alt="adam0brien" /></p>
+
 
 
 

@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam0brien&langs_count=8&theme=react" alt="adam0brien" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=adam0brien&show_icons=true&theme=react" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=adam0brien&show_icons=true&theme=react" /></p>
 
 
 

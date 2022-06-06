@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adam0brien&label=Profile%20views&color=0e75b6&style=flat" alt="adam0brien" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adam0brien" alt="adam0brien" /></a> </p>
 
 - 📫 How to reach me **adamobrieniot@gmail.com**
 
